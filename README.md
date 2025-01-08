@@ -1,4 +1,4 @@
-# ISE-3230-Project
+# Air Traffic Optimization
 
 The code is in the opt.py file. <br>
 The latex code is in finalDoc.tex. <br>
